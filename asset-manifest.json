@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tienganhb1/static/css/main.22d2919e.css",
+    "main.js": "/tienganhb1/static/js/main.46dd200a.js",
+    "static/js/787.bc21de97.chunk.js": "/tienganhb1/static/js/787.bc21de97.chunk.js",
+    "static/media/img1.png": "/tienganhb1/static/media/img1.1942423d9ec83198e7ae.png",
+    "static/media/logo.png": "/tienganhb1/static/media/logo.12d2f18cc535b233fd8e.png",
+    "static/media/img2.png": "/tienganhb1/static/media/img2.c07cde2e7db4e2084086.png",
+    "index.html": "/tienganhb1/index.html",
+    "main.22d2919e.css.map": "/tienganhb1/static/css/main.22d2919e.css.map",
+    "main.46dd200a.js.map": "/tienganhb1/static/js/main.46dd200a.js.map",
+    "787.bc21de97.chunk.js.map": "/tienganhb1/static/js/787.bc21de97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d2919e.css",
+    "static/js/main.46dd200a.js"
+  ]
+}
